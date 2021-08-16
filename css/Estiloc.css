@@ -1,0 +1,237 @@
+
+/* Questao 2*/
+body{
+    font-family:'Stoke','Karla','Raleway';
+    background-color:  #DD7755;
+    color:  #EEEE33;
+    font-size: 16px;
+    font-family: 'Stoke','Verdana','Liberation';
+
+}
+header{
+    display:block;
+}
+nav{
+    display:block;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    padding-top:4px;
+    padding-bottom:4px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Stoke','Verdana','Liberation'; 
+}
+nav
+    a:link {color: #FF0000;}
+nav
+    a:visited{color: #EE0000;}
+
+nav.menu{
+    text-align: center; margin: 3px auto;
+
+}
+a.botao{
+
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 4px;
+    padding-left: 4px;
+    background-color: #FFFF00;
+    width: 100px;
+}
+address.ender{
+    text-align: right;
+    font-size: 15px;
+    line-height: 140%;
+    float:right;
+
+}
+img.imglogo{
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+}
+div.apres{
+    text-align: center;
+    font-size: 30px;
+
+}
+section{
+    display:block;
+}
+
+/* Questão 3*/
+.listaMoletons{
+    color: #880000;
+    background-color: #EEDD99;
+    padding: 10px 10px 10px 50px;
+    margin:30px 10px 10px 10px;
+    border: 2px solid #000055;
+    line-height: 200%;
+    list-style-type: upper-roman;
+
+
+}
+.listaMoletons ul {
+    color: #880000 ;
+    line-height: 200% ;
+    list-style-type:none;
+}
+.preco{
+    color: #EE0000;
+}
+a:link{color:#FFFF00 ; text-decoration: none}
+a:visited{color: #EEEE00 ;text-decoration: none}
+
+/*Questao 4*/
+.tabcamisa{
+    border-collapse: collapse;
+    background-color: #EEDD99;
+    color: #000066;
+    width: 96%;
+    margin: 0 auto;
+    font-family: "Arial,ubuntu";
+}
+.tabcamisa td, .tabcamisa th {
+    border: 3px solid  #000055;
+    padding: 6px 12px 6px 12px;
+
+
+
+}
+.titulo{
+    color:  #FFFF22;
+    background-color: #447799;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.linTH{
+    color:#FFFFFF;
+    background-color:#777777;
+    vertical-align: middle;
+    text-align: center;
+    
+    /* faltou o alinamento horizontal*/
+}
+.colTH{
+    color:#FFFFFF;
+    background-color: #999999;
+    text-align: left;
+
+}
+.preco{
+    color:#EE0000;
+    font-weight: bold;
+    vertical-align: middle;
+
+}
+/* Questao 5*/
+
+form{
+    width:580px;
+    color: #880000;
+    background-color: #EEDD99;
+    padding: 6px 6px 15px 6px ;
+    margin: 10px auto;
+    border: 2px solid  #000055;
+}
+.listacompras{
+    widows: 230px;
+    height: 230px;
+    float: right;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.colLabSelProd{
+    text-align: left;
+    width: 260px;
+    height: 40px;
+    float: left;
+}
+.colSelProd {
+    width: 160px;
+    float: right;
+}
+.linhaProdSel{
+    width: 240px;
+    margin-bottom: 6px;
+    float: left;
+} 
+.elemEsq{
+    display: block;
+    float: left;
+}
+.elemDir{
+    float: right;
+    display: block;
+}
+.impMedio{
+    width: 80px;
+}
+div.botoes{
+    text-align: right;
+    margin: 20px 10px 0px 10px;
+    
+
+}
+/*Questao 6*/
+.fsEsq{
+    float:left;
+    display: inline;
+    margin: 0px;
+}
+.fsDir{
+    float: right;
+    display: inline;
+    margin: 0px;
+}
+
+.inpGrande{
+    width: 440px
+}
+.impNCC{
+    width: 130p;
+}
+.impTelef{
+    width: 90px;
+
+}
+.impEnder{
+    width: 200px;
+    height: 60px;
+
+}
+.numDD{
+    width: 30px;
+} 
+.numQD{
+    width: 50px;
+
+}
+.divLinha{
+    width: 550px;
+    margin-bottom: 6px;
+}
+.colPri{
+    float: left;
+    display: block;
+    width: 90px;
+}
+.colPriCompras{
+    float: left;
+    display: block;
+    width: 86px;
+
+}
+.colPriPag{
+    float:left;
+    display: block;
+    width: 250px;
+} 
