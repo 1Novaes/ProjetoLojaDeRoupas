@@ -6,3 +6,9 @@ Neste repositório guardo um site de uma loja de roupas , feito no 1° semestre 
 
 * HTML
 * CSS
+
+# Licença 
+
+MIT Licence ©
+
+
